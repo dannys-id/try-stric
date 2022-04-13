@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
           appBar: AppBar(
             backgroundColor: Colors.green[500],
-            title: Center(child: Text("STRIC")),
+            // title: Center(child: Text("STRIC")),
             flexibleSpace: Image(
               image: AssetImage('assets/images/logo.png'),
             ),
